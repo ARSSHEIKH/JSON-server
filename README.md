@@ -4,16 +4,16 @@ JSON Server is a Node Module that you can use to create demo rest json webservic
 
 ### json-server npm
 
-```$ npm install -g json-server```
+```npm install -g json-server```
 
 #### Pull App
 
-```$ git clone https://github.com/arssheikh/JSON-Server.git```
-```$ cd JSON-Server```
+```git clone https://github.com/arssheikh/JSON-Server.git```
+```cd JSON-Server```
 
 #### Run json-server
 Run JSON Server in your local machine
 
-```$ json-server --watch db.json```
+```json-server --watch db.json```
 
 ![json-server](json-server.png)
